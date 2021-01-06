@@ -18,7 +18,7 @@ This project is to practice the **Finite Impulse Response filter in "Parallel Pr
 
 **Directory structure**
 
-* **Figures** - Figures in README.md
+* **Figures/** - Figures in README.md
 * **README.md** - Introduce the project
 * **fir.h** - The header file
 * **fir.c** - The C code of baseline solution
